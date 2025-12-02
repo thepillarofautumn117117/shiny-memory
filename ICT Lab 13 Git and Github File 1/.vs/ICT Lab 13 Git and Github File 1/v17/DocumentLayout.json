@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CC407-5F3C-460B-B101-3E84B9F39AAF}|ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 1.pyproj|C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E2CC407-5F3C-460B-B101-3E84B9F39AAF}|ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 1.pyproj|solutionrelative:ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775FEF9D-B056-4B5A-81ED-03C3D9F2178C}|ICT Lab 13 Git and Github File 2\\ICT Lab 13 Git and Github File 2.pyproj|C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{775FEF9D-B056-4B5A-81ED-03C3D9F2178C}|ICT Lab 13 Git and Github File 2\\ICT Lab 13 Git and Github File 2.pyproj|solutionrelative:ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881EDE3A-4A7F-4D49-A004-5637A1B7587A}|ICT Lab 13 Git and Github File 3\\ICT Lab 13 Git and Github File 3.pyproj|C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{881EDE3A-4A7F-4D49-A004-5637A1B7587A}|ICT Lab 13 Git and Github File 3\\ICT Lab 13 Git and Github File 3.pyproj|solutionrelative:ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICT_Lab_13_Git_and_Github_File_3.py",
+              "DocumentMoniker": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py",
+              "RelativeDocumentMoniker": "ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py",
+              "ToolTip": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py",
+              "RelativeToolTip": "ICT Lab 13 Git and Github File 3\\ICT_Lab_13_Git_and_Github_File_3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-02T06:52:00.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICT_Lab_13_Git_and_Github_File_2.py",
+              "DocumentMoniker": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py",
+              "RelativeDocumentMoniker": "ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py",
+              "ToolTip": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py",
+              "RelativeToolTip": "ICT Lab 13 Git and Github File 2\\ICT_Lab_13_Git_and_Github_File_2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-02T06:51:07.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICT_Lab_13_Git_and_Github_File_1.py",
+              "DocumentMoniker": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py",
+              "RelativeDocumentMoniker": "ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py",
+              "ToolTip": "C:\\Users\\Hanzalah\\git-python-lab\\ICT Lab 13 Git and Github File 1\\ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py",
+              "RelativeToolTip": "ICT Lab 13 Git and Github File 1\\ICT_Lab_13_Git_and_Github_File_1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-02T06:49:49.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
